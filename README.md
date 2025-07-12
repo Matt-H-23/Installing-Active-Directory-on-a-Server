@@ -1,4 +1,4 @@
-# Installing Active Directory on a Server
+# Installing Active Directory on a Server 🖥️
 -This lab illustrates how to install **Active Directory** on a Windows Server
 ### Step 1: Opening the Server Manager
 - To open the **Server Manager**, select the Windows icon on the bottom left hand side, and from there you should see the **Server Manager** application on the right hand side. Go ahead and open it
